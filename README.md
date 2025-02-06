@@ -1,7 +1,7 @@
 # Fertility Data Analysis Program
 
 ## Overview
-This project is designed to analyze fertility-related data using machine learning techniques. It implements Logistic Regression and K-Nearest Neighbors (KNN) for predicting the fertility diagnosis (`N` → 0, `O` → 1) based on various features such as age, sitting hours, and more. The program also includes custom functions for data preprocessing, train-test splitting, k-fold cross-validation, and hyperparameter optimization.
+This project is designed to analyze fertility-related data using machine learning techniques. It implements Logistic Regression and K-Nearest Neighbors (KNN) for predicting the fertility diagnosis (`N` → 0, `O` → 1) based on various features such as age, sitting hours, and more. The program also includes custom functions for data preprocessing, train-test splitting, k-fold cross-validation, and hyperparameter optimization. It's main feature is the ability to predict wether a semen probe is fertile or not based on it's propper features.
 
 The dataset used in this project is available at the UCI Machine Learning Repository:  
 [https://archive.ics.uci.edu/dataset/244/fertility](https://archive.ics.uci.edu/dataset/244/fertility)
