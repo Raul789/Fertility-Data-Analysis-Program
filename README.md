@@ -18,7 +18,7 @@ The dataset used in this project is available at the UCI Machine Learning Reposi
 - **K-Fold Cross-Validation**: Evaluates both models’ accuracy across multiple data splits for more robust performance.
 - **Hyperparameter Optimization**: Tests different combinations of learning rates, epochs, and k-values for improved performance.
 - 
-![Feature Importance Chart](img/FeatureImportance.png)
+![Feature Importance Chart](pictures/FeatureImportance.png)
 
 ## License
 
